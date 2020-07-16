@@ -1,5 +1,8 @@
-### Hi there 👋
+### Clarette Terrasi Díaz - @cterrasid :earth_americas:
 
+**Developer**, constantly evolving and learning. Methodical, adaptive, **always curious** and committed to give the best in everything I do.
+
+The world of technology hooked me immediately, because of its transversality and the constant challenges it entails, as well as the opportunity to take my creative and analytical potential to the **next level**.
 <!--
 **cterrasid/cterrasid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
