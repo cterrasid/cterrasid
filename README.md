@@ -1,4 +1,4 @@
-### Clarette Terrasi Díaz - @cterrasid :earth_americas:
+### Clarette Terrasi Díaz - @cterrasid :earth_americas: :computer:
 
 **Developer**, constantly evolving and learning. Methodical, adaptive, **always curious** and committed to give the best in everything I do.
 
