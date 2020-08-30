@@ -1,9 +1,15 @@
-### Clarette Terrasi Díaz - @cterrasid :earth_americas: :computer:
+## Clarette Terrasi Díaz - @cterrasid :earth_americas: :computer:
 
 Amateur **Frontend Developer**, constantly evolving and learning. Methodical, adaptive, **always curious** and committed to give the best in everything I do.
 
 The world of technology hooked me immediately, because of its transversality and the constant challenges it entails, as well as the opportunity to take my creative and analytical potential to the **next level**.
 
+### Soft skills
+- :stuck_out_tongue_winking_eye: Sense of humor
+- :milky_way: Creativity
+- :memo: Lists lover
+
+### My tech stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%4D9DE0?style=flat-square&logo=typescript&logoColor=white&color=4D9DE0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%E1BC29?style=flat-square&logo=javascript&logoColor=white&color=E1BC29)
 ![React](https://img.shields.io/badge/-React-%44A8AA?style=flat-square&logo=react&logoColor=white&color=44A8AA)
