@@ -9,7 +9,7 @@ The world of technology hooked me immediately, because of its transversality and
 - :milky_way: Creativity
 - :memo: Lists lover
 
-### My tech stack
+### Tech stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%4D9DE0?style=flat-square&logo=typescript&logoColor=white&color=4D9DE0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%E1BC29?style=flat-square&logo=javascript&logoColor=white&color=E1BC29)
 ![React](https://img.shields.io/badge/-React-%44A8AA?style=flat-square&logo=react&logoColor=white&color=44A8AA)
@@ -22,6 +22,11 @@ The world of technology hooked me immediately, because of its transversality and
 ![CSS3](https://img.shields.io/badge/-CSS3-%7768AE?style=flat-square&logo=css3&logoColor=white&color=7768AE)
 ![Sass](https://img.shields.io/badge/-Sass-%AC5F81?style=flat-square&logo=sass&logoColor=white&color=AC5F81)
 ![Styled components](https://img.shields.io/badge/-StyledComponents-%E15554?style=flat-square&logo=styled-components&logoColor=white&color=E15554)
+
+### Get in touch
+![Gmail](https://img.shields.io/badge/-Gmail-%F61067?style=flat-square&logo=gmail&logoColor=white&color=F61067&link=mailto:clarette.terrasi@gmail.com&subject=[GitHub]%20I've%20seen%20your%20profile)
+![LinkedIn](https://img.shields.io/badge/-Linkedin-%4D4AA2?style=flat-square&logo=linkedin&logoColor=white&color=4D4AA2&link=https://www.linkedin.com/in/clarette-terrasi-diaz/?locale=en_US)
+![Twitter](https://img.shields.io/badge/-Twitter-%18BDAF?style=flat-square&logo=twitter&logoColor=white&color=18BDAF&link=https://twitter.com/clarettetedi)
 <!--
 **cterrasid/cterrasid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
