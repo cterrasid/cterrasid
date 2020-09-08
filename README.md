@@ -4,29 +4,30 @@ Amateur **Frontend Developer**, constantly evolving and learning. Methodical, a
 
 The world of technology hooked me immediately, because of its transversality and the constant challenges it entails, as well as the opportunity to take my creative and analytical potential to the **next level**.
 
-### Soft skills
-- :stuck_out_tongue_winking_eye: Sense of humor
-- :milky_way: Creativity
-- :memo: Lists lover
+### I like...
+- :sunrise_over_mountains: Mountains
+- :milky_way: :telescope: Stargazing
+- :cat: Cats
+- :memo: Make lists
+- :coffee: Coffee
 
-### Tech stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-%3A015C?style=flat-square&logo=typescript&logoColor=white&color=3A015C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%4F0147?style=flat-square&logo=javascript&logoColor=white&color=4F0147)
-![React](https://img.shields.io/badge/-React-%35012C?style=flat-square&logo=react&logoColor=white&color=35012C)
-![Next.js](https://img.shields.io/badge/-NEXTjs-%11001C?style=flat-square&logo=next.js&logoColor=white&color=11001C)
+## My Tech Stack
+### I usually use...
+![TypeScript](https://img.shields.io/badge/-TypeScript-%DA4167?style=flat-square&logo=typescript&logoColor=white&color=DA4167)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%A64563?style=flat-square&logo=javascript&logoColor=white&color=A64563)
+![React](https://img.shields.io/badge/-React-%71485F?style=flat-square&logo=react&logoColor=white&color=71485F)
+![Next.js](https://img.shields.io/badge/-NEXTjs-%37323E?style=flat-square&logo=next.js&logoColor=white&color=37323E)
+![HTML5](https://img.shields.io/badge/-HTML5-%E06088?style=flat-square&logo=html5&logoColor=white&color=E06088)
+![CSS3](https://img.shields.io/badge/-CSS3-%DA4167?style=flat-square&logo=css3&logoColor=white&color=DA4167)
+![Sass](https://img.shields.io/badge/-Sass-%A64563?style=flat-square&logo=sass&logoColor=white&color=A64563)
+![Styled components](https://img.shields.io/badge/-StyledComponents-%71485F?style=flat-square&logo=styled-components&logoColor=white&color=71485F)
 
-![Node.js](https://img.shields.io/badge/-NodeJs-%7B2C25?style=flat-square&logo=node.js&logoColor=white&color=7B2C25)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%E4572E?style=flat-square&logo=mongodb&logoColor=white&color=E4572E)
+### I'm learning...
+![Node.js](https://img.shields.io/badge/-NodeJs-%E06088?style=flat-square&logo=node.js&logoColor=white&color=E06088)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%DA4167?style=flat-square&logo=mongodb&logoColor=white&color=DA4167)
+![Vue](https://img.shields.io/badge/-Vue-%A64563?style=flat-square&logo=vue.js&logoColor=white&color=A64563)
+![Nuxt](https://img.shields.io/badge/-Nuxt-%71485F?style=flat-square&logo=nuxt.js&logoColor=white&color=71485F)
 
-![HTML5](https://img.shields.io/badge/-HTML5-%3A015C?style=flat-square&logo=html5&logoColor=white&color=3A015C)
-![CSS3](https://img.shields.io/badge/-CSS3-%4F0147?style=flat-square&logo=css3&logoColor=white&color=4F0147)
-![Sass](https://img.shields.io/badge/-Sass-%35012C?style=flat-square&logo=sass&logoColor=white&color=35012C)
-![Styled components](https://img.shields.io/badge/-StyledComponents-%11001C?style=flat-square&logo=styled-components&logoColor=white&color=11001C)
-
-### Get in touch
-![Gmail](https://img.shields.io/badge/-Gmail-%7B2C25?style=flat-square&logo=gmail&logoColor=white&color=7B2C25&link=mailto:clarette.terrasi@gmail.com&subject=[GitHub]%20I've%20seen%20your%20profile)
-![LinkedIn](https://img.shields.io/badge/-Linkedin-%E4572E?style=flat-square&logo=linkedin&logoColor=white&color=E4572E&link=https://www.linkedin.com/in/clarette-terrasi-diaz/?locale=en_US)
-![Twitter](https://img.shields.io/badge/-Twitter-%4F0147?style=flat-square&logo=twitter&logoColor=white&color=4F0147&link=https://twitter.com/clarettetedi)
 <!--
 **cterrasid/cterrasid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
