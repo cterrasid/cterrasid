@@ -11,8 +11,9 @@ The world of technology hooked me immediately, because of its transversality and
 - :memo: Make lists
 - :coffee: Coffee
 
-## My Tech Stack
-### I usually use...
+### My Tech Stack
+**I usually use...**
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%DA4167?style=flat-square&logo=typescript&logoColor=white&color=DA4167)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%A64563?style=flat-square&logo=javascript&logoColor=white&color=A64563)
 ![React](https://img.shields.io/badge/-React-%71485F?style=flat-square&logo=react&logoColor=white&color=71485F)
@@ -22,12 +23,18 @@ The world of technology hooked me immediately, because of its transversality and
 ![Sass](https://img.shields.io/badge/-Sass-%A64563?style=flat-square&logo=sass&logoColor=white&color=A64563)
 ![Styled components](https://img.shields.io/badge/-StyledComponents-%71485F?style=flat-square&logo=styled-components&logoColor=white&color=71485F)
 
-### I'm learning...
+**I'm learning...**
+
 ![Node.js](https://img.shields.io/badge/-NodeJs-%E06088?style=flat-square&logo=node.js&logoColor=white&color=E06088)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%DA4167?style=flat-square&logo=mongodb&logoColor=white&color=DA4167)
 ![Vue](https://img.shields.io/badge/-Vue-%A64563?style=flat-square&logo=vue.js&logoColor=white&color=A64563)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-%71485F?style=flat-square&logo=nuxt.js&logoColor=white&color=71485F)
 
+### Get in touch!
+<span>
+  <a href="https://twitter.com/clarettetedi" target="_blank"><img src="https://img.shields.io/badge/-@clarettetedi-37323E?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter"></a>
+  <a href="https://linkedin.com/in/clarette-terrasi-diaz/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-E06088?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"></a>
+</span>
 <!--
 **cterrasid/cterrasid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
