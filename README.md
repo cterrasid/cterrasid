@@ -25,10 +25,10 @@ The world of technology hooked me immediately, because of its transversality and
 
 **I'm learning...**
 
-![Node.js](https://img.shields.io/badge/-NodeJs-%E06088?style=flat-square&logo=node.js&logoColor=white&color=E06088)
+![Python](https://img.shields.io/badge/-Python-%E06088?style=flat-square&logo=python&logoColor=white&color=E06088)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%DA4167?style=flat-square&logo=mongodb&logoColor=white&color=DA4167)
-![Vue](https://img.shields.io/badge/-Vue-%A64563?style=flat-square&logo=vue.js&logoColor=white&color=A64563)
-![Nuxt](https://img.shields.io/badge/-Nuxt-%71485F?style=flat-square&logo=nuxt.js&logoColor=white&color=71485F)
+![MySQL](https://img.shields.io/badge/-MySQL-%A64563?style=flat-square&logo=mysql&logoColor=white&color=A64563)
+![R](https://img.shields.io/badge/-R-%71485F?style=flat-square&logo=r&logoColor=white&color=71485F)
 
 ### Get in touch!
 <span>
