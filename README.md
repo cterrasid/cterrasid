@@ -8,7 +8,7 @@ The world of technology hooked me immediately, because of its transversality and
 - :sunrise_over_mountains: Mountains
 - :milky_way: :telescope: Stargazing
 - :cat: Cats
-- :memo: Make lists
+- :memo: Lists
 - :coffee: Coffee
 
 ### My Tech Stack
