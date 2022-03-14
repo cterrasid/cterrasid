@@ -22,7 +22,7 @@ The world of technology hooked me immediately, because of its transversality and
 
 **I'm currently learning...**
 
-![Python](https://img.shields.io/badge/-Python-%E06088?style=flat-square&logo=python&logoColor=white&color=E06088)
+![C](https://img.shields.io/badge/-C-%E06088?style=flat-square&logo=c&logoColor=white&color=E06088)
 
 ### Get in touch!
 <span>
