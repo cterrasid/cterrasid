@@ -19,6 +19,7 @@ The world of technology hooked me immediately, because of its transversality and
 ![HTML5](https://img.shields.io/badge/-HTML5-%E06088?style=flat-square&logo=html5&logoColor=white&color=E06088)
 ![CSS3](https://img.shields.io/badge/-CSS3-%DA4167?style=flat-square&logo=css3&logoColor=white&color=DA4167)
 ![Sass](https://img.shields.io/badge/-Sass-%A64563?style=flat-square&logo=sass&logoColor=white&color=A64563)
+![Git](https://img.shields.io/badge/-Git-%71485F?style=flat-square&logo=git&logoColor=white&color=71485F)
 
 **I'm currently learning...**
 
