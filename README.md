@@ -1,5 +1,4 @@
-## Clarette Terrasi Díaz - @cterrasid :earth_americas: :computer:
-
+## 💫 About Me:
 Self-taught **Developer**, constantly evolving and learning. Methodical, adaptive, **always curious** and committed to give the best in everything I do.
 
 The world of technology hooked me immediately, because of its transversality and the constant challenges it entails, as well as the opportunity to take my creative and analytical potential to the **next level**.
@@ -11,25 +10,23 @@ The world of technology hooked me immediately, because of its transversality and
 - :memo: Lists
 - :coffee: Coffee
 
-### My Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cterrasid&theme=tokyonight)
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clarette-terrasi-diaz) 
 
-### Get in touch!
-<span>
-  <a href="https://twitter.com/clarettetedi" target="_blank"><img src="https://img.shields.io/badge/-@clarettetedi-37323E?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter"></a>
-  <a href="https://linkedin.com/in/clarette-terrasi-diaz/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-E06088?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"></a>
-</span>
-<!--
-**cterrasid/cterrasid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Lit](https://img.shields.io/badge/lit-FFFFFF?style=flat&logo=lit&logoColor=blue)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cterrasid&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cterrasid&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cterrasid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cterrasid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=cterrasid&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
