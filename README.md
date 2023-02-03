@@ -24,5 +24,5 @@ The world of technology hooked me immediately, because of its transversality and
 ![](https://github-profile-trophy.vercel.app/?username=cterrasid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=cterrasid&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://www.codewars.com/users/cterrasid/badges/small)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
